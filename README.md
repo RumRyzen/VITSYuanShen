@@ -1,3 +1,4 @@
+clone自https://github.com/Stardust-minus/vits，非本人原创。
 # VITS 原神语音合成V2
 
 本repo包含了我用于训练原神VITS模型对源代码做出的修改，以及新的config文件。
